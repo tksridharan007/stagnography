@@ -1,0 +1,6 @@
+tk
+pillow
+numpy
+pycryptodome
+pyaudio
+wave
